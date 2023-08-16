@@ -5,7 +5,7 @@
 Check out what we're building 🚀:
 
 * [Bridge](https://github.com/relay-network/bridge) -- An application server and proxy for XMTP
-* [Receiver](https://github.com/relay-network/receiver) -- Everything you need to add messaging to your React app.
+* [Receiver](https://github.com/relay-network/receiver) -- Everything you need to add messaging to your React apps, powered by XMTP
 * [Robot](https://github.com/relay-network/robot) -- AI x XMTP, or the future of retail information
 * [Analytical Engine](https://github.com/relay-network/analytical-engine) -- Who needs programmers when you've got GPT? (coming soon!)
 
