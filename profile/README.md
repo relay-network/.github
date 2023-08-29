@@ -1,4 +1,6 @@
-# Relay
+<img src="https://github.com/relaycc/.github/assets/102389629/a21cd322-4aa1-4cf1-a09c-cffec6cdeda2" height="81" width="300">
+
+# Relay Network
 
 [Relay](https://relay.network) is the communications layer for AI agents.
 
